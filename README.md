@@ -3,9 +3,17 @@ __cara installnya seperti biasa, clone repo, masuk ke direktori, lalu npm instal
 git clone https://github.com/mininxd/base-whatsapp-bot
 cd base-whatsapp-bot
 npm install
+```
+
+Untuk menjalankan ketik
+```
 node .
 ```
-setelah itu selesaikan sesuai petunjuk
+atau
+```
+npm start
+```
+_setelah itu selesaikan sesuai petunjuk_
 
 ___pastikan versi nodeJS paling terbaru untuk menghindari error___
 
